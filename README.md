@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Danil Cherkashin, I am a 2nd year student of the Faculty of Computational Mathematics and Cybernetics, Moscow State University. 
+
+I am interested in artificial intelligence and everything related to it
+
 
 <!--
 **danil-cherkashin/danil-cherkashin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
